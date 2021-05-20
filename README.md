@@ -40,7 +40,7 @@ There are millions and millions of people who do physiotherapy but  about 20% of
 
 We build a wearable to read the movements of the patient. A game is develop that would be controlled by the movements of the patients. In order to reach the goe als with in the game the patient has to engage in the correct movements themselves.  We record data that is needed for the therapist such as speed, time period patient engaged in the activity as well as number movement. With all the data therapist can monitor the patient’s development.  
 
-[Intro Video](data/videos/PPT.mp4)
+[Intro Video](docs/data/videos/PPT.mp4)
 
 
 
