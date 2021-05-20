@@ -1,57 +1,56 @@
-___
-# DELETE THIS INSTRUCTIONS AND ADD AN INTRODUCTION ABOUT YOUR PROJECT
-___
+---
+layout: home
+permalink: index.html
 
-# eYY-3yp-project-template
+# Please update this with your repository name and title
+repository-name: e15-3yp-Personal-Physical-Trainer-PPT
+title: Personal Physical Trainer (PPT)
+---
 
-This is a sample repository you can use for your Embedded Systems project. Once you followed these instructions, remove the text and add a brief introduction to here.
+[comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-### Enable GitHub Pages
+# Personal Physical Trainer (PPT)
 
-You can put the things to be shown in GitHub pages into the _docs/_ folder. Both html and md file formats are supported. You need to go to settings and enable GitHub pages and select _main_ branch and _docs_ folder from the dropdowns, as shown in the below image.
+---
 
-![image](https://user-images.githubusercontent.com/11540782/98789936-028d3600-2429-11eb-84be-aaba665fdc75.png)
+## Team
+-  E/15/059, DASSANAYAKE P.S.B., [prageethda@gmail.com](mailto:prageethda@gmail.com)
+-  E/15/023, ATHAPATTU A.D., [avishka0303@gmail.com](mailto:avishka0303@gmail.com)
+-  E/15/238, NANAYAKKARA G.S.C., [sewwandiecn@gmail.com](mailto:sewwandiecn@gmail.com)
 
-### Special Configurations
+---
 
-These projects will be automatically added into [https://projects.ce.pdn.ac.lk](). If you like to show more details about your project on this site, you can fill the parameters in the file, _/docs/index.json_
+## Introduction
 
-```
-{
-  "title": "This is the title of the project",
-  "team": [
-    {
-      "name": "Team Member Name 1",
-      "email": "email@eng.pdn.ac.lk",
-      "eNumber": "E/yy/xxx"
-    },
-    {
-      "name": "Team Member Name 2",
-      "email": "email@eng.pdn.ac.lk",
-      "eNumber": "E/yy/xxx"
-    },
-    {
-      "name": "Team Member Name 3",
-      "email": "email@eng.pdn.ac.lk",
-      "eNumber": "E/yy/xxx"
-    }
-  ],
-  "supervisors": [
-    {
-      "name": "Dr. Supervisor 1",
-      "email": "email@eng.pdn.ac.lk"
-    },
-    {
-      "name": "Supervisor 2",
-      "email": "email@eng.pdn.ac.lk"
-    }
-  ],
-  "tags": ["Web", "Embedded Systems"]
-}
-```
+1.What is physiotherapy?
 
-Once you filled this _index.json_ file, please verify the syntax is correct. (You can use [this](https://jsonlint.com/) tool).
+Physiotherapy is a treatment method for injuries or deformities using physical exercises.
 
-### Page Theme
+ 
 
-A custom theme integrated with this GitHub Page, which is based on [github.com/cepdnaclk/eYY-project-theme](https://github.com/cepdnaclk/eYY-project-theme). If you like to remove this default theme, you can remove the file, _docs/\_config.yml_ and use HTML based website.
+2.What is Personal Physical Trainer?
+
+Personal Physical Trainer is an innovation for physiotherapy. It creates an environment where the patients would be more willing to engage in physiotherapy   as well as it makes sure that patient would do the correct movements. This also allows the therapist to monitor the progress of his/hers patient and whether the patient carries out the necessary exercises.
+
+3.Why should people use PPT?
+
+There are millions and millions of people who do physiotherapy but  about 20% of them get cured in the relevant time period if we trace the causes for it we can see that most of the time people give up physiotherapy and they do not do the exercises they supposed to. One of the major draw back in traditional methods of physiotherapy is that therapist would examine the patient at the start of therapy and then again examine the patient after period of time. Within that time period the patient’s progress isn’t not monitored. So they tend not engage on exercises or some do not have a clue whether they are doing the correct movements.
+
+4.How does PPT work?
+
+We build a wearable to read the movements of the patient. A game is develop that would be controlled by the movements of the patients. In order to reach the goe als with in the game the patient has to engage in the correct movements themselves.  We record data that is needed for the therapist such as speed, time period patient engaged in the activity as well as number movement. With all the data therapist can monitor the patient’s development.  
+
+[Intro Video](data/videos/PPT.mp4)
+
+
+
+## Links
+
+- <a href = "https://github.com/cepdnaclk/e15-3yp-Personal-Physical-Trainer-PPT" target = "_blank"> Project Repository </a>
+- <a href = "https://cepdnaclk.github.io/e15-3yp-Personal-Physical-Trainer-PPT/" target = "_blank">Project Page</a>
+- <a href = "http://www.ce.pdn.ac.lk/" target = "_blank">Department of Computer Engineering</a>
+- <a href = "https://eng.pdn.ac.lk/" target = "_blank">University of Peradeniya</a>
+
+
+[//]: # (Please refer this to learn more about Markdown syntax)
+[//]: # (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
